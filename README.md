@@ -1,6 +1,6 @@
-# NOTIFY - Backend
+# NOTE~iT - Backend
 
-This is the backend repository for **NOTIFY**, a note-taking application that allows users to securely create, manage, and organize their notes. The backend handles authentication, CRUD operations for notes, and user management, using Node.js, Express, and MongoDB.
+This is the backend repository for **NOTE~iTY**, a note-taking application that allows users to securely create, manage, and organize their notes. The backend handles authentication, CRUD operations for notes, and user management, using Node.js, Express, and MongoDB.
 
 ## Features
 - **User Authentication**: Secure signup and login functionality using JWT (JSON Web Tokens).
